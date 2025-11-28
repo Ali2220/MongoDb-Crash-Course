@@ -1,0 +1,12 @@
+{
+  "name": "mongodb-practice-course",
+  "version": "1.0.0",
+  "description": "Practice code for MongoDB Course in Roman Urdu",
+  "main": "practice.js",
+  "scripts": {
+    "start": "node practice.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  }
+}
